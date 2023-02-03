@@ -84,4 +84,9 @@ p {
   text-align: left;
   color: #043f38;
   font-family: "Kaushan Script", cursive;
+  text-decoration: none;
+}
+.coder {
+  font-family: "Kaushan Script", cursive;
+  color: white;
 }
