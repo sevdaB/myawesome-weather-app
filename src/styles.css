@@ -1,0 +1,87 @@
+.container {
+  border: 1px solid silver;
+  border-radius: 25px;
+  padding: 15px 30px;
+  max-width: 75%;
+  margin: 100px 100px;
+  background-color: rgba(127, 249, 255, 0.5);
+}
+h1 {
+  text-align: center;
+  font-family: "Kaushan Script", cursive;
+  padding: 40px 15px 0px 15px;
+  font-size: 42px;
+}
+.row {
+  text-align: center;
+}
+h2,
+h3 {
+  padding: 15px 30px;
+  text-align: center;
+  font-weight: lighter;
+  font-size: 18px;
+  padding: 0 15px;
+  font-family: "Times New Roman", Times, serif;
+}
+body {
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+p {
+  text-align: center;
+  padding: 30px 30px;
+}
+.cloud {
+  font-size: 42px;
+}
+.center {
+  color: black;
+}
+.forecast {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+
+  font-size: 18px;
+  padding: 0;
+}
+.wind {
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+.future {
+  font-size: 10px;
+}
+.search-tab {
+  margin: 20px;
+}
+.humidity {
+  font-family: "Times New Roman", Times, serif;
+}
+.precipitation {
+  font-family: "Times New Roman", Times, serif;
+}
+#description {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.temperature {
+  color: rgb(33, 33, 33);
+  font-size: 64px;
+  font-weight: 400;
+  line-height: 1;
+}
+.units {
+  position: relative;
+  top: -34px;
+}
+#date {
+  font-family: "Kaushan Script", cursive;
+  padding: 0 15px 30px 10px;
+}
+.source-code {
+  text-align: left;
+  color: #043f38;
+  font-family: "Kaushan Script", cursive;
+}
